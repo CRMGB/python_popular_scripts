@@ -1,0 +1,6 @@
+name: python_practices
+dependencies:
+  - python=3.7
+  - pip
+  - fastprogress
+  - functools
