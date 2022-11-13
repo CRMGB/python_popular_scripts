@@ -4,10 +4,6 @@ Just some python practices which I will take into account efficiency timing each
 
 I used Jupiter notebooks with anaconda in ubuntu 20.04
 
-Resources used:
-	- pip install functools
-	- pip install timeit
-	- pip install fastprogress
-	- pip install typeguard
-	- pip install typecheck
-	- pip install perfplot
+To install all tthe packages just inttall the requirements file as: pip install -r requirements.txt
+
+For more info follow: https://learnpython.com/blog/python-requirements-file/
